@@ -1,0 +1,41 @@
+/* body{
+  background-image: url("./assets/sung-jinwoo-7680x4320-21872.jpg");
+  background-size: cover;
+} */
+
+
+
+  .section-title{
+    font-size: 25px;
+    color: red;
+  }
+  #title{
+    color: chartreuse;
+  }
+  #title:hover{
+    color: aqua;
+  }
+
+.education-container h5{
+  font-size: 16px;
+  color:black;
+}
+#educational_qualification{
+  color: aqua;
+}
+/* .education-container h4{
+  color: cornflowerblue;
+} */
+
+ /* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+/* 
+h1{
+  border: 1px solid;
+  padding: 20px;
+  margin:0;
+} */
+
