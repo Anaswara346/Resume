@@ -1,27 +1,54 @@
-/* body{
-  background-image: url("./assets/sung-jinwoo-7680x4320-21872.jpg");
-  background-size: cover;
-} */
+body{
+  margin-left: 7px;
+  padding: 0%;
+}
+
+.profile-img{
+  width:90px; 
+  margin-top: 10px;
+  
+}
 
 
 
-  .section-title{
-    font-size: 25px;
-    color: red;
-  }
-  #title{
-    color: chartreuse;
-  }
-  #title:hover{
+#name{
+  /* font-family:Georgia, 'Times New Roman', Times, serif; */
+  
+  font-size:larger;
+  margin-top: 30px;
+  border-top:2px solid #ddd; 
+}
+
+#title{
+    font-weight: normal;
+    font-size: large;
+    margin-top: 10px ;
+    color: rgb(0, 0, 0);
+}
+  /* #title:hover{
     color: aqua;
-  }
+  } */
+
+.section-title{
+    font-size: 20px;
+    color: rgb(226, 97, 97);
+    border-top:1px solid #ddd; 
+}
+
+.sub-header{
+  font-size: 15px;
+  color: #2c6ed5;
+  margin-top: 10px;
+  border-bottom:1px solid #ddd; 
+   /* padding-bottom: 2px; */ 
+}
 
 .education-container h5{
-  font-size: 16px;
+  font-size: 12px;
   color:black;
 }
 #educational_qualification{
-  color: aqua;
+  color: #2c6ed5;
 }
 /* .education-container h4{
   color: cornflowerblue;
